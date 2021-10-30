@@ -1,0 +1,17 @@
+Allumage électrique du bâton
+==>	Tout est éteint
+Modes activables par le bouton de programmation
+==>	Mode 1 : Activation du bâton
+o	Clignotement erratique des 3 couleurs qui s’accélère pour devenir fixe
+==> Mode 2 : Utilisation nominale du bâton
+o	Allumage des couleurs périodique et au bout d’un temps, les 3 couleurs sont allumées
+==>	Mode 3 : Bâton cassé
+o	Clignotement accéléré des 3 couleurs puis extinction des 3 couleurs chacune leur tour avant une extinction complète du bâton
+
+Fonctions à coder :
+  -	Bouton de prog :
+      o	Retour : mode 1 / mode 2 / mode 3
+  -	Mode 1
+  -	Mode 2
+  -	Mode 3
+  -	Gestion de 3 LED pour le mode
